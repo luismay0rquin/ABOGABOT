@@ -23,4 +23,4 @@ REQUERIMIENTOS PARA EL ADMINISTRADOR
 -Agregar comentarios y actualización
 -Envió de notificaciones a cliente
 -Selección de color
--Responsiva para celular
+-Responsiva para celular.

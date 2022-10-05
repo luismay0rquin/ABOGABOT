@@ -24,4 +24,5 @@ REQUERIMIENTOS PARA EL ADMINISTRADOR
 -Envió de notificaciones a cliente
 -Selección de color
 -Responsiva para celular
+![image](https://user-images.githubusercontent.com/114204528/193979575-f543e83a-2da8-4602-8b96-65e66a8be961.png)
 

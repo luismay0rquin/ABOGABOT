@@ -24,5 +24,9 @@ REQUERIMIENTOS PARA EL ADMINISTRADOR
 -Envió de notificaciones a cliente
 -Selección de color
 -Responsiva para celular
+
+DIAGRAMA DE FLUJO
 ![image](https://user-images.githubusercontent.com/114204528/193979575-f543e83a-2da8-4602-8b96-65e66a8be961.png)
 
+BUYER PERSONA
+[Juan Lopez .pdf](https://github.com/luismay0rquin/ABOGABOT/files/9712614/Juan.Lopez.pdf)

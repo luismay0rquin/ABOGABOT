@@ -30,3 +30,6 @@ DIAGRAMA DE FLUJO
 
 BUYER PERSONA
 [Juan Lopez .pdf](https://github.com/luismay0rquin/ABOGABOT/files/9712614/Juan.Lopez.pdf)
+
+PUBLICO OBJETIVO 
+![image](https://user-images.githubusercontent.com/114204528/193982373-c78fb3ff-16cb-452a-88a3-a3667ff3d689.png)
